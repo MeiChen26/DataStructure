@@ -1,5 +1,11 @@
 package ch07;
 
+import ch07.BubbleSort.BubbleSort;
+import ch07.HeapSort.HeapSort;
+import ch07.InsertionSort.InsertionSort;
+import ch07.QuickSort.QuickSort;
+import ch07.SelectionSort.SelectionSort;
+
 public class Exercise7_4_3 {
 	/*
 	 * 测试每一种排序的运行速度
